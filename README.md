@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yonas21
+- 👋 Hi, I’m Yonas Alem
 - 👀 I’m interested in Reactjs and expressjs, aws
 - 🌱 I’m currently working as frontend Developer
 - 💞️ I’m looking to collaborate on web developement
