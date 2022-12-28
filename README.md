@@ -10,9 +10,9 @@
 ### Connect with me:
 
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yonas-alem-82b318176)
-&nbsp;&nbsp;
 
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/its_yon_21)
+&nbsp;&nbsp;
 
 ### Languages and Tools:
 
