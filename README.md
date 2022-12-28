@@ -29,6 +29,6 @@
 [<img align="left" alt="Golang" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/go/go-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Golang" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-plain.svg" style="padding-right:10px;" />]
 [<img align="left" alt="MongoDB" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" style="padding-right:10px" style="padding-right:10px;" />]
-[<img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-plain.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-plain.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-plain.svg" style="padding-right:10px;" />]
