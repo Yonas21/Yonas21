@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently Working on Poker Game Project
 - 👯 I’m looking to collaborate with other Web and Application Developers
-- 🥅 2023 Goals: Learn Swift and Ios Application Development
+- 🥅 2024 Goals: Learn Rust and Driving
 - ⚡ Fun fact: I love to Play Football and Watching Podcasts.
 
 ### Connect with me:
