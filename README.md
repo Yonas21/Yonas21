@@ -10,7 +10,8 @@ I’m a Senior Software Developer with a passion for building dynamic, user-frie
  - UI Libraries: Tailwind, Material-UI, Bootstrap, Antd
 
 ## Projects
- - Real Gaming Poker -  A cutting-edge real-time poker platform enabling users to enjoy their favorite poker games seamlessly on mobile.
+ - Real Gaming Poker
+    A cutting-edge real-time poker platform enabling users to enjoy their favorite poker games seamlessly on mobile.
 
      - Key Contributions:
         - Management Dashboard: Designed and developed an intuitive dashboard to streamline administrative tasks.
@@ -18,6 +19,14 @@ I’m a Senior Software Developer with a passion for building dynamic, user-frie
         - API Development: Built and integrated robust APIs to support new features and ensure seamless communication between the mobile app and dashboard.
         - Reports & Auditing: Created detailed reports for auditing and logging purposes, ensuring transparency and operational efficiency.
         - Deployment to AWS: Deployed both the UI and backend APIs to Amazon Web Services (AWS), ensuring scalability, reliability, and high availability.
+  - EthioDirect
+     A seamless remittance application empowering customers to send money internationally with their preferred currency.
+
+    - Key Contributions:
+       - Management Dashboard: Designed and developed a user-friendly dashboard to monitor transactions and respond effectively to customer feedback.
+       - Mobile Application: Designed and implemented the mobile app, integrating it with both local and third-party APIs for reliable and efficient operations.
+       - Build and Deployment: Built the application for APK (Android) and IPA (iOS) formats, ensuring smooth deployment to Google Play Console and Apple App Store for customer accessibility.
+
 
 
 ### Contact Me:
