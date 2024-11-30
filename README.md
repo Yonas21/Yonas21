@@ -1,6 +1,6 @@
 # Hi there, I'm Yonas 👋
 
-## I'm a FullStack Web Developer !!
+##  About Me
 
 - 🌱 I’m currently Working on Poker Game Project
 - 👯 I’m looking to collaborate with other Web and Application Developers
