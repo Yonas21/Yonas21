@@ -29,6 +29,8 @@ I’m a Senior Software Developer with a passion for building dynamic, user-frie
 
 
 
-### Contact Me:
+### 📬 Contact Me:
+- 📧 [Email Me](mailto:yonalem21@gmail.com)
+- 💼 [Connect on LinkedIn](https://www.linkedin.com/in/yonasalem21)
 
 
