@@ -8,6 +8,7 @@ I’m a Senior Software Developer with a passion for building dynamic, user-frie
  - Tools: Git, Docker, Composer, npm
  - Cloud Expertise: Amazon Web Services (AWS), Google Cloud Platform (GCP)
  - UI Libraries: Tailwind, Material-UI, Bootstrap, Antd
+ - API communication protocols: REST, gRPC, GraphQL 
 
 ## Projects
  - Real Gaming Poker
