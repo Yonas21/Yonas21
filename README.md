@@ -10,7 +10,7 @@ I’m a Senior Software Developer with a passion for building dynamic, user-frie
  - UI Libraries: Tailwind, Material-UI, Bootstrap, Antd
 
 ## Projects
- - Real Gaming Poker A cutting-edge real-time poker platform enabling users to enjoy their favorite poker games seamlessly on mobile.
+ - Real Gaming Poker -  A cutting-edge real-time poker platform enabling users to enjoy their favorite poker games seamlessly on mobile.
 
      - Key Contributions:
         - Management Dashboard: Designed and developed an intuitive dashboard to streamline administrative tasks.
