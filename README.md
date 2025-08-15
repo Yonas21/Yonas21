@@ -38,7 +38,9 @@ I’m a **Senior Fullstack Engineer** with **5+ years** of experience designing,
 **Backend & APIs:**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)  
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)  
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+
+**Databases:**  
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
