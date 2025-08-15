@@ -81,7 +81,6 @@ I’m a **Senior Fullstack Engineer** with **5+ years** of experience designing,
 ---
 
 ## 📊 GitHub Stats  
-![Yonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yonas21&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yonas21&layout=compact&theme=radical)  
 
 ---
