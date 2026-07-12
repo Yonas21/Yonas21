@@ -1,105 +1,422 @@
-# 👋 Hi, I’m **Yonas Alem**  
-**Senior Fullstack Engineer | Cloud-Native Systems | Scalable App Architect**
+````markdown
+# Hi there, I'm Yonas Alem 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yonasalem21-blue?logo=linkedin)](https://www.linkedin.com/in/yonasalem21)
-[![Portfolio](https://img.shields.io/badge/Portfolio-yonasalem.dev-8A2BE2?logo=google-chrome)](https://yonasalem.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-Yonas21-black?logo=github)](https://github.com/Yonas21)
-[![Email](https://img.shields.io/badge/Email-yonalem21%40gmail.com-red?logo=gmail)](mailto:yonalem21@gmail.com)
+### Senior Fullstack Software Engineer | Go | TypeScript | React | Node.js | Python | AWS | Distributed Systems
 
----
+I build software that scales.
 
-## 🚀 About Me  
-I’m a **Senior Fullstack Engineer** with **5+ years of experience** building and scaling **secure, high-performance** applications for fintech, enterprise, and gaming platforms.  
+I'm a Senior Fullstack Software Engineer with 5+ years of experience designing, building, and optimizing modern web applications, distributed systems, and cloud native infrastructure.
 
-💡 I specialize in:
-- 🚀 Achieving **40%+ API performance gains** through SQL optimization & Redis caching  
-- 🔄 Migrating monoliths into **microservices with gRPC** (zero downtime)  
-- ☁️ Cutting cloud costs by **$8K+/month** via AWS architecture tuning  
-- 🧩 Leading cross-functional teams with **CI/CD, test automation, and clean code practices**  
+Throughout my career, I've delivered production software across fintech, AI, gaming, enterprise, and government sectors. I enjoy solving complex engineering challenges, improving system performance, designing maintainable architectures, and building products that users rely on every day.
 
----
+I'm currently focused on becoming a world class Backend and Platform Engineer specializing in Go, distributed systems, Kubernetes, and cloud infrastructure.
 
-## 🛠 Tech Stack  
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### 💻 **Languages**
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-
-### ⚛️ **Frontend**
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Material-UI](https://img.shields.io/badge/-Material--UI-007FFF?logo=mui&logoColor=white)
-
-</td>
-<td valign="top" width="50%">
-
-### ⚙️ **Backend & APIs**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-
-### 🗄 **Databases**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
-
-### ☁️ **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
-
-</td>
-</tr>
-</table>
+<p align="left">
+  <a href="https://yonasalem.dev">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:yonalem21@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/yonasalem21">
+    <img src="https://img.shields.io/badge/LinkedIn-Yonas%20Alem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 💼 Featured Projects  
+# About Me
 
-### 🎮 **Real Gaming Poker NV** — *Online Multiplayer Poker Platform*  
-**Tech:** React, Material-UI, gRPC, PHP, MySQL, Redis, AWS, Docker, DataDog  
-- Built **real-time multiplayer poker** (e.g., Five Card Turbo, Omaha) with scalable backend APIs  
-- Designed **fraud detection dashboards** and daily financial verification tools  
-- Reduced infrastructure costs **from $30K → $8K/month** through AWS optimization  
-- Implemented **player engagement** features like seat reservations & placeholders  
+```go
+type Engineer struct {
+    Name          string
+    Role          string
+    Experience    string
+    Location      string
+    Specialities  []string
+}
+
+var yonas = Engineer{
+    Name:       "Yonas Alem",
+    Role:       "Senior Fullstack Software Engineer",
+    Experience: "5+ Years",
+    Location:   "Ethiopia",
+    Specialities: []string{
+        "Backend Engineering",
+        "Distributed Systems",
+        "Cloud Architecture",
+        "System Design",
+        "Frontend Engineering",
+        "Developer Experience",
+    },
+}
+```
+
+I enjoy building software that is
+
+✅ Fast
+
+✅ Scalable
+
+✅ Secure
+
+✅ Maintainable
+
+✅ Observable
+
+✅ Easy to extend
 
 ---
 
-### 🏛 **Maryland State Constituent Platform**  
-**Tech:** Python, FastAPI, SQLAlchemy, MySQL, Azure AI  
-- Developed APIs for **complaint processing, document approvals, and recognition letters**  
-- Integrated **Azure Cognitive Services** for voicemail transcription & classification  
-- Automated **citations and cold-call messaging** to boost citizen engagement  
+# Engineering Highlights
+
+🚀 Reduced AWS infrastructure costs from **$30,000/month to $8,000/month**
+
+⚡ Improved API performance by more than **40%** using Redis caching and SQL optimization
+
+🏗 Migrated legacy applications into scalable gRPC microservices with zero downtime
+
+📈 Built production systems serving thousands of daily users
+
+💳 Developed secure payment, reporting, and financial systems
+
+🤖 Built AI powered applications using OpenAI and Azure AI
+
+☁️ Designed cloud native infrastructure on AWS
+
+👨‍💻 Mentored developers and promoted clean architecture and engineering best practices
 
 ---
 
-### 🧠 **Upplai** — *AI-Powered Resume Tailoring Platform*  
-**Tech:** Vue.js, Tailwind CSS, OpenAI API  
-- Integrated GPT models for **custom resume generation, ATS optimization, and live scoring**  
-- Built a **real-time preview UI** and optimized asset loading for faster UX  
-- Delivered mobile-friendly design for global accessibility  
+# Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=go,ts,js,python,php" />
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css,vite" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django" />
+</p>
+
+**Also Experienced With**
+
+gRPC
+
+REST APIs
+
+GraphQL
+
+Prisma
+
+SQLAlchemy
+
+Redis
+
+WebSockets
+
+JWT Authentication
+
+OAuth
 
 ---
 
-## 📊 GitHub Stats  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yonas21&layout=compact&theme=radical)
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase" />
+</p>
 
 ---
 
-## 📬 Let’s Connect  
-📧 [Email](mailto:yonalem21@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/yonasalem21)  
-🌐 [Portfolio](https://yonasalem.dev)  
-💻 [GitHub](https://github.com/Yonas21)
+## Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,linux,githubactions,nginx,bash" />
+</p>
+
+---
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+Datadog
+
+Prometheus
+
+Grafana
+
+RabbitMQ
+
+Kafka
+
+Stripe
+
+Cloudflare
+
+OpenAI
+
+Azure AI
+
+---
+
+# Featured Projects
+
+## 🎮 Real Gaming Poker
+
+High traffic online multiplayer poker platform used by thousands of players.
+
+### Responsibilities
+
+Built modern React interfaces
+
+Developed backend services
+
+Designed reporting dashboards
+
+Implemented fraud detection
+
+Optimized AWS infrastructure
+
+Reduced infrastructure costs by over 70%
+
+Built player reservation systems
+
+Improved platform scalability
+
+**Tech**
+
+React
+
+TypeScript
+
+PHP
+
+MySQL
+
+Redis
+
+Docker
+
+AWS
+
+gRPC
+
+---
+
+## 🤖 Upplai
+
+AI powered resume optimization platform.
+
+### Responsibilities
+
+Integrated OpenAI APIs
+
+Built ATS resume optimization
+
+Implemented live resume scoring
+
+Designed responsive frontend
+
+Optimized application performance
+
+**Tech**
+
+Vue
+
+TailwindCSS
+
+OpenAI
+
+TypeScript
+
+---
+
+## 🏛 Maryland State Constituent Platform
+
+Government workflow automation platform.
+
+### Responsibilities
+
+Built FastAPI services
+
+Implemented document workflows
+
+Integrated Azure AI
+
+Created automated messaging services
+
+Developed citizen engagement features
+
+**Tech**
+
+Python
+
+FastAPI
+
+Azure AI
+
+SQLAlchemy
+
+MySQL
+
+---
+
+# What I'm Currently Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=go,kubernetes,aws,docker" />
+</p>
+
+Current focus
+
+Go
+
+Distributed Systems
+
+Kubernetes
+
+Platform Engineering
+
+Cloud Architecture
+
+System Design
+
+Event Driven Architecture
+
+High Performance Backend Development
+
+---
+
+# Engineering Philosophy
+
+I believe great software should be
+
+Simple enough to understand
+
+Reliable enough to trust
+
+Fast enough to scale
+
+Flexible enough to evolve
+
+My engineering approach focuses on
+
+Clean Architecture
+
+SOLID Principles
+
+Domain Driven Design
+
+Testability
+
+Automation
+
+Continuous Delivery
+
+Observability
+
+Developer Experience
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yonas21&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yonas21&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Yonas21&theme=transparent&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yonas21&theme=github-compact&hide_border=true"/>
+
+</p>
+
+---
+
+# GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Yonas21&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# Open Source
+
+I enjoy contributing to open source, exploring new technologies, and building developer tools that improve productivity.
+
+Some areas I'm actively interested in include
+
+Go
+
+Backend Engineering
+
+Developer Tooling
+
+Cloud Infrastructure
+
+Artificial Intelligence
+
+Automation
+
+---
+
+# Let's Connect
+
+<p align="center">
+
+<a href="mailto:yonalem21@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/yonasalem21">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://yonasalem.dev">
+<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Yonas21">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### Thanks for stopping by!
+
+If you're building scalable products, cloud infrastructure, AI applications, or distributed systems, I'd love to connect and collaborate.
+
+⭐ Feel free to explore my repositories and don't hesitate to reach out.
+
+</p>
+````
