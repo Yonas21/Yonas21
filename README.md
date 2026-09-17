@@ -1,44 +1,56 @@
 # Yonas Alem
 
-Senior Full Stack Engineer. Remote from Addis Ababa (EAT, UTC+3).
+**Senior Full Stack Engineer** · Node.js · PostgreSQL · React
+Remote from Addis Ababa, Ethiopia · EAT (UTC+3)
 
-Node.js · PHP · Go · TypeScript · Python / FastAPI · PostgreSQL · React.
+I build and maintain production software across marketplace analytics, payments, real money gaming, government platforms, and cloud systems.
 
-Most production work is in private employer repos — marketplace analytics, real-money gaming, payments, government systems. I do not publish that code.
+Most of my production work lives in private employer repositories, so I don't publish the code. Instead, I document the problems I solved and can walk through the architecture, tradeoffs, and implementation in a technical conversation.
 
-**How to evaluate me:** [yonasalem.vercel.app](https://yonasalem.vercel.app) — case studies, then a call where I walk through architecture and code.
+**How to evaluate my work:** case studies are on my portfolio, followed by a technical conversation where I walk through the architecture and code behind the work.
 
-[Portfolio](https://yonasalem.vercel.app) · [LinkedIn](https://www.linkedin.com/in/yonasalem21) · [Email](mailto:yonalem21@gmail.com)
-
----
-
-## Production work
-
-**TPK Synergy** — Amazon seller analytics. Recurring sync jobs that died after every deploy; shutdown handling across 17 cron processes. SP-API and Amazon Ads auth, UK/EU marketplaces, aggregations moved into SQL. Node.js, PostgreSQL, BullMQ, Redis, React.
-
-**Mereb Technologies** — real-money gaming end to end (loyalty, payouts, fraud, reporting). ~30% platform performance, ~35% infra (~$100K/year), reports on ~1M records from 2 hours to under 30 minutes. PHP, gRPC, Protocol Buffers, React, PostgreSQL, AWS, Datadog.
-
-**Affiliate.com** — migrated a legacy PHP API to Node.js and tRPC (Prisma, Zod). Report generation off the backend into GCS, ~40% faster.
-
-**Eaglelion** — Mastercard, Visa, and Telebirr payment workflows on Nedaj ([Google Play](https://play.google.com/store/apps/details?id=com.eaglelionsystems.nedaj)). React, Next.js.
-
-**Autobridge** — constituent-platform APIs, access control, encryption. Missing indexes on incoming email records; those operations improved 10x+.
+📎 [Portfolio](https://yonasalem.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/yonasalem21) · ✉️ [Email](mailto:yonalem21@gmail.com)
 
 ---
 
-## Public
+## What I Actually Ship
 
-- [This site](https://github.com/Yonas21/personal_website)
-- [Krive](https://github.com/Yonas21/Krive) — school transport app (React Native)
-- [Forward resume builder](https://github.com/Yonas21/forward-resume-builder) — React + FastAPI + OpenAI
+- Fixed recurring Amazon synchronization jobs that stopped after deployments by implementing graceful shutdown handling across a fleet of Node.js cron processes using BullMQ and Redis.
+- Reduced reporting time on ~1 million records from ~2 hours to under 30 minutes — a ~30% platform performance improvement and ~35% infrastructure cost reduction, roughly $100K in annual savings.
+- Built payment workflows for **Nedaj** supporting Mastercard, Visa, and Telebirr. → [Nedaj on Google Play](https://play.google.com/store/apps/details?id=com.eaglelionsystems.nedaj)
+- Reduced multi-minute email record loading on a government constituent platform by identifying missing database indexes and optimizing the underlying queries — more than 10x improvement.
 
----
+## Stack I Can Defend in an Interview
 
-## Stack
+**Languages:** TypeScript · JavaScript · PHP · SQL
+**Backend:** Node.js · Prisma · gRPC · tRPC · REST · BullMQ
+**Data:** PostgreSQL · Redis
+**Frontend:** React · Next.js · Tailwind CSS
+**Cloud & Infrastructure:** AWS · Docker · GitHub Actions · Datadog
+**Integrations:** Amazon SP API · Amazon Ads · Mastercard · Visa · Telebirr · OAuth 2.0
 
-**Languages:** TypeScript, JavaScript, PHP, Go, Python, SQL
-**Backend:** Node.js, Express, FastAPI, Prisma, gRPC, tRPC, REST, BullMQ
-**Data:** PostgreSQL, MySQL, Redis
-**Frontend:** React, Next.js, Tailwind CSS
-**Cloud:** AWS, Docker, GitHub Actions, Datadog
-**Integrations:** Amazon SP-API, Amazon Ads, Mastercard, Visa, Telebirr, OAuth 2.0, OpenAI, Gemini
+## Selected Work
+
+**Marketplace Analytics**
+Built backend and frontend systems around Amazon marketplace data — synchronization jobs, reporting, seller analytics, financial workflows, advertising data, and marketplace integrations. Worked with Amazon SP API, Amazon Ads APIs, OAuth 2.0, BullMQ, Redis, PostgreSQL, Prisma, and Node.js.
+
+**Real Money Gaming**
+Worked on production gaming systems handling thousands of concurrent users and high daily game volumes. Focused on performance, payment and withdrawal workflows, fraud prevention, caching, database optimization, observability, and infrastructure cost reduction.
+
+**Payments**
+Built payment integrations involving Mastercard, Visa, Telebirr, and banking APIs — transaction workflows, reconciliation, withdrawal restrictions, and payment-related dashboards.
+
+**Government Platforms**
+Built and optimized government constituent and reporting systems handling large datasets. One reporting workflow processing ~1 million records was reduced from ~2 hours to under 30 minutes.
+
+## Public Code
+
+Most production systems I've worked on are proprietary, so the code here represents a small part of my work: [Personal Website](https://github.com/Yonas21/personal_website).
+
+For the rest, I'm happy to walk through architecture, implementation decisions, performance bottlenecks, and tradeoffs in a technical discussion — see the [Portfolio](https://yonasalem.vercel.app/) for case studies.
+
+## Let's Talk
+
+I'm interested in remote **Senior Software Engineer**, **Full Stack Engineer**, and **Backend Engineer** roles working on production systems, APIs, distributed workflows, databases, and cloud infrastructure.
+
+📎 [Portfolio](https://yonasalem.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/yonasalem21) · ✉️ [Email](mailto:yonalem21@gmail.com)
