@@ -1,6 +1,8 @@
 # Yonas Alem
 
-Senior Full Stack Engineer. Node.js, PostgreSQL, React. Remote from Addis Ababa (EAT, UTC+3).
+Senior Full Stack Engineer. Remote from Addis Ababa (EAT, UTC+3).
+
+Node.js · PHP · Go · TypeScript · Python / FastAPI · PostgreSQL · React.
 
 Most production work is in private employer repos — marketplace analytics, real-money gaming, payments, government systems. I do not publish that code.
 
@@ -10,22 +12,33 @@ Most production work is in private employer repos — marketplace analytics, rea
 
 ---
 
-## What I actually ship
+## Production work
 
-- Recurring Amazon sync jobs that died after every deploy — shutdown handling across 17 cron processes (Node.js, BullMQ, Redis)
-- Reports on ~1M records from 2 hours to under 30 minutes; ~30% platform gain; ~35% infra cost (~$100K/year)
-- Payment workflows on Nedaj (Mastercard, Visa, Telebirr) — [Google Play](https://play.google.com/store/apps/details?id=com.eaglelionsystems.nedaj)
-- Multi-minute email record loads on a constituent platform — missing indexes, 10x+
+**TPK Synergy** — Amazon seller analytics. Recurring sync jobs that died after every deploy; shutdown handling across 17 cron processes. SP-API and Amazon Ads auth, UK/EU marketplaces, aggregations moved into SQL. Node.js, PostgreSQL, BullMQ, Redis, React.
 
-Public repo: [this site](https://github.com/Yonas21/personal_website)
+**Mereb Technologies** — real-money gaming end to end (loyalty, payouts, fraud, reporting). ~30% platform performance, ~35% infra (~$100K/year), reports on ~1M records from 2 hours to under 30 minutes. PHP, gRPC, Protocol Buffers, React, PostgreSQL, AWS, Datadog.
+
+**Affiliate.com** — migrated a legacy PHP API to Node.js and tRPC (Prisma, Zod). Report generation off the backend into GCS, ~40% faster.
+
+**Eaglelion** — Mastercard, Visa, and Telebirr payment workflows on Nedaj ([Google Play](https://play.google.com/store/apps/details?id=com.eaglelionsystems.nedaj)). React, Next.js.
+
+**Autobridge** — constituent-platform APIs, access control, encryption. Missing indexes on incoming email records; those operations improved 10x+.
 
 ---
 
-## Stack I can defend in an interview
+## Public
 
-**Languages:** TypeScript, JavaScript, PHP, SQL  
-**Backend:** Node.js, Prisma, gRPC, tRPC, REST, BullMQ  
-**Data:** PostgreSQL, Redis  
-**Frontend:** React, Next.js, Tailwind CSS  
-**Cloud:** AWS, Docker, GitHub Actions, Datadog  
-**Integrations:** Amazon SP-API, Amazon Ads, Mastercard, Visa, Telebirr, OAuth 2.0
+- [This site](https://github.com/Yonas21/personal_website)
+- [Krive](https://github.com/Yonas21/Krive) — school transport app (React Native)
+- [Forward resume builder](https://github.com/Yonas21/forward-resume-builder) — React + FastAPI + OpenAI
+
+---
+
+## Stack
+
+**Languages:** TypeScript, JavaScript, PHP, Go, Python, SQL
+**Backend:** Node.js, Express, FastAPI, Prisma, gRPC, tRPC, REST, BullMQ
+**Data:** PostgreSQL, MySQL, Redis
+**Frontend:** React, Next.js, Tailwind CSS
+**Cloud:** AWS, Docker, GitHub Actions, Datadog
+**Integrations:** Amazon SP-API, Amazon Ads, Mastercard, Visa, Telebirr, OAuth 2.0, OpenAI, Gemini
