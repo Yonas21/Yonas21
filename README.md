@@ -1,7 +1,7 @@
 # Yonas Alem
 
-**Senior Full Stack Engineer** · Node.js · PostgreSQL · React
-Remote from Addis Ababa, Ethiopia · EAT (UTC+3)
+**Senior Full Stack Engineer**
+Remote from Addis Ababa, Ethiopia, open to relocation · EAT (UTC+3)
 
 I build and maintain production software across marketplace analytics, payments, real money gaming, government platforms, and cloud systems.
 
